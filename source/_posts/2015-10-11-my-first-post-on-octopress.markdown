@@ -6,4 +6,4 @@ comments: true
 categories: "Flatiron School"
 ---
 
-"Hello, World"
+"Hello"
