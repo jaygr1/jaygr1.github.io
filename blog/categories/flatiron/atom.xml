@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Flatiron | My Octopress Blog]]></title>
   <link href="http://jaygr1.github.io/blog/categories/flatiron/atom.xml" rel="self"/>
   <link href="http://jaygr1.github.io/"/>
-  <updated>2015-10-11T21:34:49-04:00</updated>
+  <updated>2015-10-12T08:36:04-04:00</updated>
   <id>http://jaygr1.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[My First Post on Octopress]]></title>
+    <title type="html"><![CDATA[Checkers Isn't Fun With AI]]></title>
     <link href="http://jaygr1.github.io/blog/2015/10/11/my-first-post-on-octopress/"/>
     <updated>2015-10-11T21:26:53-04:00</updated>
     <id>http://jaygr1.github.io/blog/2015/10/11/my-first-post-on-octopress</id>
-    <content type="html"><![CDATA[<p>&ldquo;Hello, World&rdquo;</p>
+    <content type="html"><![CDATA[<p>&ldquo;Last week we watched the cohort ahead of us give their final presentations.  One group used a minimax function in their game.  In this post I&rsquo;ll give a quick primer on minimax algorithms.</p>
+
+<p>Minimax algorithms can be used in decision theory, game theory or statistics for minimizing the possible loss of a worst case scenario. The theory origionated with zero-sum game theory, but has grown to broadly cover decision making in the presence of uncertainty.</p>
+
+<p>The algorithm is typically used in two-player games. A value is associated with each position or state of the game. Most implementations of a minimax algoritihm employ a game tree to help the computer evaluate each of its possible moves.  While flexible, this can quickly decrease become a large undertaking for complex situations.</p>
+
+<p>Critics of the minimax theory argue that it&rsquo;s not particularly useful because it must have a determined loss function and it uses the worst case to define the value of a procedure.</p>
+
+<p>"</p>
 ]]></content>
   </entry>
   
